@@ -1,0 +1,9 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Uji Validasi Keamanan",
+    "version": "1.0.0",
+    "description": "![x](https://example.com/image.png\"onerror=\"alert(document.domain))"
+  },
+  "paths": {}
+}
